@@ -12,7 +12,7 @@ Projects
 
    Technologies Used: MySQL, Python
 
-   Link: https://github.com/tshehadey/Projects/blob/main/SQL_NYT_Pipeline
+   Link: https://github.com/tshehadey/Projects/tree/main/NYT_Pipeline
 
 2. Predicting News Article Shares
 
